@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Sales & Profit Analytics Dashboard" width="100%">
+  <img src="scripts/generate_banner.py" alt="Sales & Profit Analytics Dashboard" width="100%">
 </p>
 # Sales & Profit Analytics Dashboard
 
