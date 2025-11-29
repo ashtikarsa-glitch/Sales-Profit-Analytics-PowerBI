@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sample_charts/banner.png" width="100%">
+  <img src="assets/banner.png" alt="Sales & Profit Analytics Dashboard" width="100%">
 </p>
 # Sales & Profit Analytics Dashboard
 
